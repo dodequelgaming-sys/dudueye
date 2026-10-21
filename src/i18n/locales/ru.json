@@ -3014,5 +3014,10 @@
   "Layers": "Слои",
   "Search": "Поиск",
   "More": "Ещё",
-  "Panels": "Панели"
+  "Panels": "Панели",
+  "USGS Rivers & Streams": "USGS: реки и ручьи",
+  "USGS Lakes & Reservoirs": "USGS: озёра и водохранилища",
+  "USGS Springs": "USGS: родники",
+  "Water": "Вода",
+  "Zoom in to a region to load river gauges": "Приблизьте регион, чтобы загрузить речные датчики"
 }

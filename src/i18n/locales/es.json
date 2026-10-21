@@ -2947,5 +2947,10 @@
   "Layers": "Capas",
   "Search": "Buscar",
   "More": "Más",
-  "Panels": "Paneles"
+  "Panels": "Paneles",
+  "USGS Rivers & Streams": "USGS: ríos y arroyos",
+  "USGS Lakes & Reservoirs": "USGS: lagos y embalses",
+  "USGS Springs": "USGS: manantiales",
+  "Water": "Agua",
+  "Zoom in to a region to load river gauges": "Acércate a una región para cargar los medidores de ríos"
 }
