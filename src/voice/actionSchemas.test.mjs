@@ -39,10 +39,9 @@ test('the complete Realtime tool payload pins the manifest-generated layer relea
     // requested radius and center authority in descriptions only.
     // Street Level and GNSS extend the manifest; tracked and analyst aircraft describe broadcasts.
     // Air quality (ECCC AQHI) extends the manifest.
-    // Globe rotation adds one motion; visual keyhole fit and explicit
-    // reset guidance/defaults update only move_camera and mode descriptions.
-    // Restore base descriptions; append only globe-rotation defaults and fit guidance.
-    '967b5a043b812e2f8c1e190fc571cf12b960c9d4486df736902221aab4d99cf6',
+    // Globe rotation adds one motion. USGS water levels (rivers, lakes, springs)
+    // extend the manifest. Re-derived on current main, 2026-10-24.
+    '2d04d30f10645d485e699a0485b82fe6a77787cf07f52025aa100ba66a981bf6',
   );
 });
 
